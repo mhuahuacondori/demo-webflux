@@ -1,9 +1,0 @@
-org/reactivo/demowebflux/entity/Proveedores.class
-org/reactivo/demowebflux/config/DBConfig.class
-org/reactivo/demowebflux/repository/ProveedoresRepository.class
-org/reactivo/demowebflux/controller/ProveedoresController.class
-org/reactivo/demowebflux/DemoWebfluxApplication.class
-org/reactivo/demowebflux/service/ProveedoresService.class
-org/reactivo/demowebflux/entity/Empleados.class
-org/reactivo/demowebflux/entity/Empleados$EmpleadosBuilder.class
-org/reactivo/demowebflux/entity/Proveedores$ProveedoresBuilder.class
